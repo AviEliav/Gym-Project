@@ -1,0 +1,20 @@
+C:\Users\msvs\Desktop\Gym Project\Gym Project\obj\Debug\net6.0\Gym Project.csproj.AssemblyReference.cache
+C:\Users\msvs\Desktop\Gym Project\Gym Project\obj\Debug\net6.0\Gym Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msvs\Desktop\Gym Project\Gym Project\obj\Debug\net6.0\Gym Project.AssemblyInfoInputs.cache
+C:\Users\msvs\Desktop\Gym Project\Gym Project\obj\Debug\net6.0\Gym Project.AssemblyInfo.cs
+C:\Users\msvs\Desktop\Gym Project\Gym Project\obj\Debug\net6.0\Gym Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftWare Development\C# project\Gym project\Gym Project\Gym Project\bin\Debug\net6.0\Gym Project.exe
+C:\Users\User\Desktop\SoftWare Development\C# project\Gym project\Gym Project\Gym Project\bin\Debug\net6.0\Gym Project.deps.json
+C:\Users\User\Desktop\SoftWare Development\C# project\Gym project\Gym Project\Gym Project\bin\Debug\net6.0\Gym Project.runtimeconfig.json
+C:\Users\User\Desktop\SoftWare Development\C# project\Gym project\Gym Project\Gym Project\bin\Debug\net6.0\Gym Project.dll
+C:\Users\User\Desktop\SoftWare Development\C# project\Gym project\Gym Project\Gym Project\bin\Debug\net6.0\Gym Project.pdb
+C:\Users\User\Desktop\SoftWare Development\C# project\Gym project\Gym Project\Gym Project\obj\Debug\net6.0\Gym Project.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SoftWare Development\C# project\Gym project\Gym Project\Gym Project\obj\Debug\net6.0\Gym Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\SoftWare Development\C# project\Gym project\Gym Project\Gym Project\obj\Debug\net6.0\Gym Project.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftWare Development\C# project\Gym project\Gym Project\Gym Project\obj\Debug\net6.0\Gym Project.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftWare Development\C# project\Gym project\Gym Project\Gym Project\obj\Debug\net6.0\Gym Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftWare Development\C# project\Gym project\Gym Project\Gym Project\obj\Debug\net6.0\Gym Project.dll
+C:\Users\User\Desktop\SoftWare Development\C# project\Gym project\Gym Project\Gym Project\obj\Debug\net6.0\refint\Gym Project.dll
+C:\Users\User\Desktop\SoftWare Development\C# project\Gym project\Gym Project\Gym Project\obj\Debug\net6.0\Gym Project.pdb
+C:\Users\User\Desktop\SoftWare Development\C# project\Gym project\Gym Project\Gym Project\obj\Debug\net6.0\Gym Project.genruntimeconfig.cache
+C:\Users\User\Desktop\SoftWare Development\C# project\Gym project\Gym Project\Gym Project\obj\Debug\net6.0\ref\Gym Project.dll

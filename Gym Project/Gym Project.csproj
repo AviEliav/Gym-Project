@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Gym_Project</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="client data\**" />
+    <Compile Remove="coach data\**" />
+    <EmbeddedResource Remove="client data\**" />
+    <EmbeddedResource Remove="coach data\**" />
+    <None Remove="client data\**" />
+    <None Remove="coach data\**" />
+  </ItemGroup>
+
+</Project>
